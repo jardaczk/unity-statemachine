@@ -1,0 +1,23 @@
+{
+	"name": "eu.demondragon.statemachine.tests",
+	"rootNamespace": "DemonDragon.StateMachine.Tests",
+	"references": [
+		"eu.demondragon.statemachine.runtime",
+		"UnityEngine.TestRunner",
+		"UnityEditor.TestRunner"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": true,
+	"precompiledReferences": [
+		"nunit.framework.dll",
+		"UnityEngine.TestRunner.dll"
+	],
+	"autoReferenced": false,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

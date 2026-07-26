@@ -1,0 +1,21 @@
+{
+  "name": "eu.demondragon.statemachine",
+  "version": "1.0.0",
+  "displayName": "Demondragon State Machine",
+  "description": "Engine-agnostic, strongly typed finite state machine: instance-keyed states, deterministic transition priority, multi-source and global transitions, interruptibility control and a selector seam for Utility AI.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "type": "library",
+  "keywords": [
+    "state machine",
+    "fsm",
+    "ai",
+    "utility ai",
+    "gameplay"
+  ],
+  "author": {
+    "name": "DemonDragon",
+    "url": "https://github.com/jardaczk"
+  },
+  "dependencies": {}
+}

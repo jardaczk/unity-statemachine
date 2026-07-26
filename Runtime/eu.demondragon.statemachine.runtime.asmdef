@@ -1,0 +1,14 @@
+{
+	"name": "eu.demondragon.statemachine.runtime",
+	"rootNamespace": "DemonDragon.StateMachine",
+	"references": [],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": true
+}
